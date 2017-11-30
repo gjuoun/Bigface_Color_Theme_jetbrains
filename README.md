@@ -2,7 +2,7 @@
 My custom color scheme for webstorm
 
 ## Preview
-Javascript
+⋅⋅* Javascript
 ![alt text](https://raw.githubusercontent.com/gjuoun/JunGuo_Color_Scheme_Webstorm/master/javascript.png "Javascript")
 
 Node.js
