@@ -1,5 +1,6 @@
 # JunGuo_Color_Scheme_Webstorm
 My custom color scheme for webstorm
+Font: [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)
 
 ## Preview
 Javascript
