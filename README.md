@@ -1,15 +1,17 @@
 # OneGreen_Color Scheme
+
 A personalized color scheme for webstorm, android studio
 
 ### Update:
+
 Now support Android Studio!
 
-
 ### Usage:
+```
 1,Download OneGreen.jar 
 2,Import settings, please select "Onegreen" in Settings-Color Scheme 
 3,Happy coding!
-
+```
 
 Font: Iosevka Regular, from [Iosevka](https://github.com/be5invis/Iosevka)
 
