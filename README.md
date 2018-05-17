@@ -1,7 +1,9 @@
-# JunGuo_Color_Scheme_Webstorm
+# OneGreen_Color Scheme
 My custom color scheme for webstorm, after you import settings, please select "Onegreen" in Settings-Color Scheme
 
-Font: Sarasa Mono SC, from [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)
+Update: Now working on Android Studio!
+
+Font: Iosevka Regular, from [Iosevka](https://github.com/be5invis/Iosevka)
 
 ## Preview
 Javascript
