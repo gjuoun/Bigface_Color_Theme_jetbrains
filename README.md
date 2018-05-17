@@ -1,10 +1,11 @@
 # OneGreen_Color Scheme
-My custom color scheme for webstorm, 
+A personalized color scheme for webstorm, android studio
 
-Update: Now support Android Studio!
+###Update: 
+Now support Android Studio!
 
 
-Usage:
+###Usage:
 1,Download OneGreen.jar
 2,Import settings, please select "Onegreen" in Settings-Color Scheme
 3,Happy coding!
