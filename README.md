@@ -6,8 +6,8 @@ Now support Android Studio!
 
 
 ### Usage:
-1,Download OneGreen.jar
-2,Import settings, please select "Onegreen" in Settings-Color Scheme
+1,Download OneGreen.jar 
+2,Import settings, please select "Onegreen" in Settings-Color Scheme 
 3,Happy coding!
 
 
