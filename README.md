@@ -1,6 +1,6 @@
-# OneGreen_Color Scheme
+# Bigface Color Scheme
 
-A personalized color scheme for webstorm, android studio
+A personalized color scheme for WebStorm, pyChamr, Android Studio
 
 ### Update:
 
@@ -8,30 +8,23 @@ Now support Android Studio!
 
 ### Usage:
 ```
-1,Download OneGreen.jar 
-2,Import settings, please select "Onegreen" in Settings-Color Scheme 
-3,Happy coding!
+1. Download Bigface - <IDE name>.jar 
+2. Open your IDE, go to File - Settings - Editor - Color Scheme - Choose import scheme 
 ```
+![alt text](https://github.com/gjuoun/Bigface_Color_Theme_jetbrains/blob/master/img/instruction.png?raw=true "instruction")
 
 Font: Iosevka Regular, from [Iosevka](https://github.com/be5invis/Iosevka)
 
 ## Preview
-Javascript
+WebStorm 
 
-![alt text](https://raw.githubusercontent.com/gjuoun/JunGuo_Color_Scheme_Webstorm/master/javascript.png "Javascript")
+![alt text](https://github.com/gjuoun/Bigface_Color_Theme_jetbrains/blob/master/img/webstorm.png?raw=true "WebStorm")
 
-Node.js
+PyCharm
 
-![alt text](https://raw.githubusercontent.com/gjuoun/JunGuo_Color_Scheme_Webstorm/master/nodejs.png "Node.js")
+![alt text](https://github.com/gjuoun/Bigface_Color_Theme_jetbrains/blob/master/img/pycharm.png?raw=true "PyCharm")
 
-HTML
+AndroidStudio
 
-![alt text](https://raw.githubusercontent.com/gjuoun/JunGuo_Color_Scheme_Webstorm/master/html.png "HTML")
+![alt text](https://github.com/gjuoun/Bigface_Color_Theme_jetbrains/blob/master/img/androidstudio.png?raw=true "AndroidStudio")
 
-CSS
-
-![alt text](https://raw.githubusercontent.com/gjuoun/JunGuo_Color_Scheme_Webstorm/master/css.png "CSS")
-
-Vue.js
-
-![alt text](https://raw.githubusercontent.com/gjuoun/JunGuo_Color_Scheme_Webstorm/master/vue.png "Vue.js")
