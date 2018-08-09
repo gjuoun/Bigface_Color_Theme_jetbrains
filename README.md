@@ -1,6 +1,6 @@
 # Bigface Color Scheme
 
-A boy loves a girl with her big face. So he named this theme for her "Bigface".
+A boy loves a girl with her big face. So he gives this name for her "Bigface".
 
 Now Bigface Color Theme supports WebStorm, PyChamr, Android Studio and IntelliJ.
 
