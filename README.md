@@ -1,15 +1,23 @@
 # Bigface Color Scheme
 
-A personalized color scheme for WebStorm, pyChamr, Android Studio
+A boy love a girl with her big face. So he named this theme for her "Bigface".
+
+Now Bigface Color Theme supports WebStorm, PyChamr, Android Studio and IntelliJ.
 
 ### Update:
 
+2018-08-09 Update:
+Now support IntelliJ, it works perfectly on highlighting Java, Scala and Kotlin.
 Now support Android Studio!
 
 ### Usage:
+You can install plugin from ![alt text](https://plugins.jetbrains.com/plugin/10988-bigface-color-scheme "JetBrains Plugin Page") or you may want install it manually:
+
 ```
-1. Download Bigface - <IDE name>.jar 
+Manual Setup
+1. Download Bigface.<version>.jar 
 2. Open your IDE, go to File - Settings - Editor - Color Scheme - Choose import scheme 
+3. Apply the theme. Done!
 ```
 ![alt text](https://github.com/gjuoun/Bigface_Color_Theme_jetbrains/blob/master/img/instruction.png?raw=true "instruction")
 
