@@ -8,6 +8,7 @@ Now Bigface Color Theme supports WebStorm, PyChamr, Android Studio and IntelliJ.
 
 2018-08-09 Update:
 Now support IntelliJ, it works perfectly on highlighting Java, Scala and Kotlin.
+
 Now support Android Studio!
 
 ### Usage:
