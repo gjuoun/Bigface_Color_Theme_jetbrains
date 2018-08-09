@@ -11,7 +11,7 @@ Now support IntelliJ, it works perfectly on highlighting Java, Scala and Kotlin.
 Now support Android Studio!
 
 ### Usage:
-You can install plugin from ![alt text](https://plugins.jetbrains.com/plugin/10988-bigface-color-scheme "JetBrains Plugin Page") or you may want install it manually:
+You can install plugin from [JetBrains Plugin Page](https://plugins.jetbrains.com/plugin/10988-bigface-color-scheme) or you may want install it manually:
 
 ```
 Manual Setup
