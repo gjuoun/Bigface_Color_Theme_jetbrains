@@ -14,6 +14,9 @@ Now support IntelliJ, it works perfectly on highlighting Java, Scala and Kotlin.
 ### Usage:
 New! You can download directly from [Jetbrain Plugin Market](https://plugins.jetbrains.com/plugin/10988-bigface-color-scheme)
 
+Simplest installation: 
+Drag and drop Bigface.jar to you IDE window.
+
 ```
 Manual Setup
 1. Download Bigface.jar 
