@@ -1,0 +1,1 @@
+jar cf ../Bigface.jar ../META-INF ../colors

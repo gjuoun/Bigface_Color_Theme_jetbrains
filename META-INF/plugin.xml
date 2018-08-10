@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>color.scheme.Bigface</id>
+  <name>Bigface Color Scheme</name>
+  <version>0.3.1</version>
+  <vendor email="gjuoun@gmail.com" url="https://github.com/gjuoun/Bigface_Color_Theme_jetbrains">Jun Guo</vendor>
+
+  <description><![CDATA[
+      Now support Java and Scala
+    ]]></description>
+
+  <change-notes><![CDATA[
+      
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Bigface"/>
+  </extensions>
+</idea-plugin>
